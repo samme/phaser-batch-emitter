@@ -1,0 +1,27 @@
+{
+  "name": "phaser-batch-emitter",
+  "main": "index.js",
+  "authors": [
+    "samme <samme@github.invalid>"
+  ],
+  "description": "Fast, no-physics particle emitter",
+  "keywords": [
+    "phaser"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/samme/phaser-batch-emitter",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "**/*.coffee",
+    "**/*.html",
+    "example"
+  ],
+  "dependencies": {
+    "phaser": "photonstorm/phaser#2.6.2"
+  }
+}

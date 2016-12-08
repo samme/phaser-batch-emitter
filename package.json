@@ -1,0 +1,29 @@
+{
+  "name": "phaser-batch-emitter",
+  "version": "0.0.0",
+  "description": "Fast, no-physics particle emitter",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "phaser": "2.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samme/phaser-batch-emitter.git"
+  },
+  "keywords": [
+    "phaser"
+  ],
+  "author": "samme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samme/phaser-batch-emitter/issues"
+  },
+  "homepage": "https://github.com/samme/phaser-batch-emitter#readme"
+}
