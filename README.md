@@ -1,7 +1,7 @@
 Phaser Batch Emitter ✨
 ====================
 
-Fast, no-physics particle emitter based [Phaser.SpriteBatch](http://phaser.io/docs/2.6.2/Phaser.SpriteBatch.html).
+Fast, no-physics particle emitter based on [Phaser.SpriteBatch](http://phaser.io/docs/2.6.2/Phaser.SpriteBatch.html).
 
     game.add.batchEmitter(x, y, maxParticles)
       // configure …
@@ -10,7 +10,7 @@ Fast, no-physics particle emitter based [Phaser.SpriteBatch](http://phaser.io/do
       // or
       .flow()
 
-It works very similarly to [Phaser.Particles.Arcade.Emitter](http://phaser.io/docs/2.6.2/Phaser.Particles.Arcade.Emitter.html). See the [examples](https://samme.github.io/phaser-batch-emitter/example/) and [source](https://github.com/samme/phaser-batch-emitter/index.coffee) for details. You can set
+It works very similarly to [Phaser.Particles.Arcade.Emitter](http://phaser.io/docs/2.6.2/Phaser.Particles.Arcade.Emitter.html). See the [examples](https://samme.github.io/phaser-batch-emitter/) and [source](https://github.com/samme/phaser-batch-emitter/blob/master/index.coffee) for details. You can set
 
     emitter.debug = true;
     emitter.log = true;
